@@ -1,2 +1,9 @@
-# Jay-ho-Multi-services-
-Home services, management, online services delivery purchase sales New Job ui
+# जय हो मल्टी सर्व्हिसेस
+मराठी Multi Services Android App.
+
+App नाव: जय हो मल्टी सर्व्हिसेस
+फोन: 9403878432
+पत्ता: सोलापूर
+लोगो: App Home Screen मध्ये सेट केलेला आहे.
+
+मुख्य सुविधा: सेवा यादी, सेवा बुकिंग, नाव, मोबाईल, पत्ता, तारीख/वेळ आणि बुकिंग पुष्टी.
